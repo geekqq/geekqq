@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geekqq
 - 👀 I’m interested in computers, music, movies, food.
-- 🌱 I’m currently learning OOP java.
-- 💞️ I’m looking for an entry level software engineer position.
+- 🌱 I’m currently programming.
+- 💞️ I’m a dad of two girls and one boy.
 - 📫 How to reach me 
 - Twitter: @stonehoo
 - Blog: stonehoo.me
