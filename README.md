@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geekqq
 - 👀 I’m interested in computers, music, movies, food.
-- 🌱 I’m currently programming.
+- 🌱 I’m currently learning programming @TechBow.
 - 💞️ I’m a dad of two girls and one boy.
 - 📫 How to reach me 
 - Twitter: @stonehoo
