@@ -5,6 +5,8 @@
 - 📫 How to reach me 
 - Twitter: @stonehoo
 - Blog: stonehoo.me
+- website: stoni.me
+- website: stonehoo.vercel.app
 - Email: stonehoo@outlook.com
 
 <!---
