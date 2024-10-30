@@ -7,7 +7,8 @@
 - Blog: stonehoo.me
 - website: stoni.me
 - website: stonehoo.vercel.app
-- Email: stonehoo@outlook.com
+- website: geekkk.com
+- Email: me@stonehoo.me
 
 <!---
 geekqq/geekqq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
