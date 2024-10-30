@@ -5,9 +5,9 @@
 - 📫 How to reach me 
 - Twitter: [@stonehoo](https://x.com/stonehoo)
 - Blog: [stonehoo.me](https://stonehoo.me)
-- website: https://stoni.me
+- website: [stoni.me](https://stoni.me)
 - website: [stonehoo.vercel.app](https://stonehoo.vercel.app)
-- website: [https://geekkk.com](https://geekkk.com)
+- website: [geekkk.com](https://geekkk.com)
 - Email: me@stonehoo.me
 
 <!---
